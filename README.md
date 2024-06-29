@@ -1,0 +1,1 @@
+This project focuses on classifying 3 types of Iris flower species according to the measurements of their sepal and petal width and length using a K Nearest Neighbor classifier and Streamlit for making the interactive web app.
